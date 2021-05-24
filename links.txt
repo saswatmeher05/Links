@@ -1,0 +1,2 @@
+Install Node and Angular in windows-
+https://www.zeolearn.com/magazine/setup-angular-windows
