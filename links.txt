@@ -1,2 +1,5 @@
 Install Node and Angular in windows-
 https://www.zeolearn.com/magazine/setup-angular-windows
+
+Allow to run scripts with windows powershell(to fix error: running scripts is disabled on this system)-
+https://www.roelpeters.be/solved-running-scripts-is-disabled-on-this-system-in-powershell/
