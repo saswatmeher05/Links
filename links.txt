@@ -3,3 +3,6 @@ https://www.zeolearn.com/magazine/setup-angular-windows
 
 Allow to run scripts with windows powershell(to fix error: running scripts is disabled on this system)-
 https://www.roelpeters.be/solved-running-scripts-is-disabled-on-this-system-in-powershell/
+
+Steps to install git in windows 10-
+https://medium.com/devops-with-valentine/2021-how-to-install-git-on-windows-10-step-by-step-guide-1c9db500e734
