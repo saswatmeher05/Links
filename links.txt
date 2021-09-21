@@ -6,3 +6,7 @@ https://www.roelpeters.be/solved-running-scripts-is-disabled-on-this-system-in-p
 
 Steps to install git in windows 10-
 https://medium.com/devops-with-valentine/2021-how-to-install-git-on-windows-10-step-by-step-guide-1c9db500e734
+
+
+Solve NullPointerException while saving image/file to db in servlets-
+https://stackoverflow.com/questions/27126148/how-to-insert-image-in-mysql-database-using-servlet-and-jsp-in-tomcat-7
