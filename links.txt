@@ -10,3 +10,8 @@ https://medium.com/devops-with-valentine/2021-how-to-install-git-on-windows-10-s
 
 Solve NullPointerException while saving image/file to db in servlets-
 https://stackoverflow.com/questions/27126148/how-to-insert-image-in-mysql-database-using-servlet-and-jsp-in-tomcat-7
+
+Schedule A Task To Run At A Specific Time
+Using the Timer class you can create a timer and schedule a task to run at specific time.
+https://www.javacodex.com/Date-and-Time/Schedule-A-Task-To-Run-At-A-Specific-Time
+
