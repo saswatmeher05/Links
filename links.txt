@@ -18,5 +18,8 @@ https://www.javacodex.com/Date-and-Time/Schedule-A-Task-To-Run-At-A-Specific-Tim
 ScheduledExecutorService Examples in Java
 https://www.tutorialcup.com/java/scheduledexecutorservice-in-java.htm
 
-Java : Build your Own Custom ExecutorService(ThreadPool) -
+Java : Build your Own Custom ExecutorService(ThreadPool)-
 https://medium.com/@itsmynameangad/java-build-your-own-custom-executorservice-threadpool-213e46159326
+
+Introduction to MyBatis with xml and annotation Example-
+https://zetcode.com/db/mybatis/
