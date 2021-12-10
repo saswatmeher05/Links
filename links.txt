@@ -36,5 +36,6 @@ https://www.javacodegeeks.com/2012/11/mybatis-tutorial-crud-operations-and-mappi
 
 MyBatis Dynamic Query Example by Loiane Groner-
 https://github.com/loiane/ibatis-dynamic-sql
+https://github.com/loiane/ibatis-handling-joins
 
 
