@@ -47,3 +47,6 @@ https://github.com/scbushan05/springmvc-mybatis-mysql
 Spring MVC Form Handeling with taglib(jsp page)-
 https://www.tutorialspoint.com/spring/spring_mvc_form_handling_example.htm
 https://www.javatpoint.com/spring-mvc-form-text-field
+
+Spring MVC – How to include JS or CSS files in a JSP page-
+https://mkyong.com/spring-mvc/spring-mvc-how-to-include-js-or-css-files-in-a-jsp-page/
