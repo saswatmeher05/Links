@@ -41,4 +41,6 @@ https://github.com/loiane/ibatis-handling-joins
 Passing parameters in MyBatis Example-
 https://programmer.ink/think/mybatis-2-parameters-transfer.html
 
+Spring MVC-Mybatis Example-
+https://github.com/scbushan05/springmvc-mybatis-mysql
 
