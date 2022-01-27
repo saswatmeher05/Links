@@ -60,3 +60,6 @@ https://medium.com/beingcoders/ways-to-generate-random-string-in-java-6d3b1d964c
 
 Export Data Into Excel In A Spring Boot MVC Application And Download-
 https://javatechonline.com/how-to-export-data-into-excel-in-a-spring-boot-mvc-application/
+
+Export Data Into Pdf In A Spring Boot MVC Application And Download-
+https://www.jackrutorial.com/2018/02/generate-excel-file-and-pdf-file-in-spring-4-mvc-using-apache-poi-itext-pdf-tutorial.html
